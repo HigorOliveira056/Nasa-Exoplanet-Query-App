@@ -1,0 +1,13 @@
+{
+    "name": "exoplanet/exoquery",
+    "description": "Nasa exoplanet query",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Higor Luiz",
+            "email": "higor.056oliveira@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
